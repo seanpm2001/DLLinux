@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>WindowsXPExtractedIcons</identifier>
+  <mediatype>image</mediatype>
+  <collection>opensource_image</collection>
+  <collection>community</collection>
+  <creator>Microsoft</creator>
+  <date>2001</date>
+  <description>&lt;div&gt;All icons from a clean install of Windows XP SP2. Includes all icon files extracted from .dll files, and converted .png files.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://archive.org/download/WindowsXPExtractedIcons/Windows%20Icons%20-%20ICO.zip" rel="nofollow"&gt;Windows Icons - ICO.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/download/WindowsXPExtractedIcons/Windows%20Icons%20-%20PNG.zip" rel="nofollow"&gt;Windows Icons - PNG.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/download/WindowsXPExtractedIcons/Program%20Files%20Icons%20-%20ICO.zip" rel="nofollow"&gt;Program Files Icons - ICO.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.org/download/WindowsXPExtractedIcons/Program%20Files%20Icons%20-%20PNG.zip" rel="nofollow"&gt;Program Files Icons - PNG.zip&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;img src="https://archive.org/download/WindowsXPExtractedIcons/cmd.exe_14_IDI_APPICON-6.png" alt="cmd.exe_14_IDI_APPICON-6.png" width="32" height="32" /&gt; &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/main.cpl_14_200-8.png" alt="main.cpl_14_200-8.png" width="32" height="32" /&gt; &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/main.cpl_14_100-7.png" alt="main.cpl_14_100-7.png" width="32" height="32" /&gt;  &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/dfrgres.dll_14_106-6.png" alt="dfrgres.dll_14_106-6.png" width="32" height="32" /&gt; &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/explorer.exe_14_100-9.png" alt="explorer.exe_14_100-9.png" width="32" height="32" /&gt; &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/explorer.exe_14_103-7.png" alt="explorer.exe_14_103-7.png" width="32" height="32" /&gt; &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/explorer.exe_14_107-4.png" alt="explorer.exe_14_107-4.png" width="32" height="32" /&gt; &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/explorer.exe_14_108-7.png" alt="explorer.exe_14_108-7.png" width="32" height="32" /&gt; &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/icwconn1.exe_14_200-7.png" alt="icwconn1.exe_14_200-7.png" width="32" height="32" /&gt; &lt;img src="https://archive.org/download/WindowsXPExtractedIcons/iexplore.exe_14_32528-7.png" alt="iexplore.exe_14_32528-7.png" width="32" height="32" /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;edit (2022-07-27):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;To extract icons like this, use the &lt;a href="https://www.nongnu.org/icoutils/" rel="nofollow"&gt;iconutils&lt;/a&gt; package, specifically the wrestool program.&lt;br /&gt;&lt;/div&gt;</description>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>Icons</subject>
+  <title>Windows XP Icons (.ico, .png)</title>
+  <uploader>michiel@thingmajig.org</uploader>
+  <publicdate>2022-01-03 18:26:24</publicdate>
+  <addeddate>2022-01-03 18:26:24</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20220103183721[/date][comment]checked for malware[/comment]</curation>
+  <year>2001</year>
+</metadata>
