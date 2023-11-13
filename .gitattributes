@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Shell source file
+*.sh linguist-detectable=true
+*.sh linguist-documentation=false
+*.sh linguist-language=Shell
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -123,10 +127,10 @@
 *.desktop linguist-documentation=false
 *.desktop linguist-language=desktop
 # INI/CFG
-*.ini linguist-detectable=false
+*.ini linguist-detectable=true
 *.ini linguist-documentation=false
 *.ini linguist-language=INI
-*.cfg linguist-detectable=false
+*.cfg linguist-detectable=true
 *.cfg linguist-documentation=false
 *.cfg linguist-language=INI
 # CFF
@@ -161,10 +165,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2023, Sunday, November 12th at 09:23 pm PST)
+# Line count (including blank lines and compiler line): 178
+
 # End of script
